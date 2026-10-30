@@ -29,6 +29,12 @@ git clone https://github.com/qwertyrei583/interreg-next-annexes-ro.git ~/.codex/
 
 Dacă abilitatea este deja instalată, păstrează o copie a modificărilor locale înainte de a o înlocui sau actualiza.
 
+## Ghid pentru utilizator
+
+Citiți [ghidul de utilizare](references/user-guide.md): mesajul de bun venit, cum transmiteți documentele, ce informații indicați la început, documentele utile și un exemplu de prim mesaj.
+
+Puteți încărca documentele direct în chat, trimite un link către un dosar accesibil printr-o aplicație conectată sau indica o cale locală într-un mediu cu acces la fișiere. Linkul singur nu acordă acces; dosarul nu trebuie făcut public. Puteți începe cu documentele disponibile, fără un set complet.
+
 ## Utilizare
 
 Invocă abilitatea și indică dosarul documentelor, proiectul, partenerul și perioada de raportare, în măsura în care aceste informații sunt disponibile:

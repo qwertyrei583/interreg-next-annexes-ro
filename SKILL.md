@@ -7,6 +7,12 @@ description: Pregătește anexele de control 4.1, 4.2 și 4.3 pentru proiectele 
 
 Pregătește fișiere DOCX pentru proiectul, partenerul și perioada de raportare concrete, folosind șabloanele salvate. Comunică implicit în română: mesaje, clarificări, explicații, sinteza întrebărilor, abateri și limitări ale verificării. Completează anexele implicit în engleză, păstrând denumirile oficiale și datele documentelor în limba originală. Folosește altă limbă la cererea utilizatorului. Materialele sunt destinate verificării de către controlor: nu semna documentele și nu afirma că ai efectuat verificări care nu au avut loc.
 
+## Bun venit și îndrumarea utilizatorului
+
+La prima interacțiune citește [ghidul utilizatorului](references/user-guide.md). Dacă utilizatorul doar pornește agentul sau întreabă cum să înceapă, afișează mesajul de bun venit din ghid, cu opțiunile de transmitere a documentelor și informațiile inițiale. Dacă sarcina și documentele sunt deja furnizate, salută pe scurt, începe examinarea și nu solicita din nou informațiile disponibile. Nu repeta inutil mesajul de bun venit la continuarea lucrului.
+
+Pentru întrebări privind utilizarea agentului, folosește ghidul. Verifică întâi accesibilitatea linkului sau a dosarului local prin instrumentele disponibile. Nu afirma că ai citit documente inaccesibile. Dacă accesul lipsește, explică motivul și propune încărcarea fișierelor în chat sau accesul printr-o aplicație conectată; nu solicita link public, parole sau acces la Jems. Cere doar ce lipsește; lista documentelor utile nu este un set integral obligatoriu înainte de începerea examinării.
+
 ## Începerea lucrului
 
 Citește [regulile privind probele și întrebările](references/evidence-and-questions.md) și [sursele și aplicabilitatea](references/sources-and-applicability.md).
