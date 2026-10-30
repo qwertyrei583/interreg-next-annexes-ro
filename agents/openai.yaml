@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interreg NEXT — Română"
+  short_description: "Anexele 4.1–4.3; comunicare în limba română"
+  default_prompt: "Folosește $interreg-next-annexes-ro pentru a completa anexele de control pe baza documentelor proiectului și comunică în limba română."
